@@ -1,6 +1,6 @@
 # Mars Weather App 
 
-A web app dashboard that displays mars weather.
+A web app dashboard that displays mars weather. Practice for CSS
 
 ## Available Scripts
 
